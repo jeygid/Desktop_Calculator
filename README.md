@@ -1,2 +1,2 @@
 # Desktop Calculator
-Desktop calculator using Postfix Notation
+Desktop calculator using Postfix Notation.

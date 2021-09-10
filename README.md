@@ -1,2 +1,2 @@
 # Desktop Calculator
-Desktop calculator using Postfix Notation.
+Desktop calculator based on Postfix Notation using Swing Library

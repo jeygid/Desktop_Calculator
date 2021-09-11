@@ -1,4 +1,4 @@
 # Desktop Calculator
-Swing based desktop calculator using Postfix Notation Evaluation
+Swing based desktop calculator using Postfix Notation
 
 
